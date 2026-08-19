@@ -1,2 +1,2 @@
 # exercicios-modelagem-dados
-Exercícios da disciplima Modelagem de dados
+Exercícios da disciplina Modelagem de dados
